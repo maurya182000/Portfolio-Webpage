@@ -43,7 +43,7 @@ This is a **single-page portfolio website** built using HTML and CSS. It include
 ## 🌟 Features
 
 - Modern and clean design  
-- Responsive layout (Desktop, Tablet, and Mobile friendly)  
+- Responsive layout  
 - Smooth scrolling navigation  
 - Hover effects for a dynamic user experience  
 
